@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fff</color>
+    <color name="colorPrimaryDark">#5d9cec</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="pinkAndLavender">#f0f0f0</color>
+    <color name="pinkAndLavenderLight">#efefef</color>
+    <color name="gray">#242424</color>
+    <color name="gray_light">#A5A5A5</color>
+    <color name="blue_light">#a6c5ed</color>
+    <color name="blue_deep">#2a83f1</color>
+    <color name="send_code">#505050</color>
+</resources>

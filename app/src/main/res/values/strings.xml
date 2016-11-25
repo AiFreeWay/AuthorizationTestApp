@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AuthorizationTestApp</string>
+    <string name="input_mail_title">Войдите под вашим аккаунтом в школе Skyeng и получите доступ к мобильному личному кабинету</string>
+    <string name="email">Электронаня почта</string>
+    <string name="password">Пароль</string>
+    <string name="get_code_for_input">Получить код для входа</string>
+    <string name="input_with_password">Обычный вход с паролем</string>
+    <string name="input_without_password">Вход без пароля</string>
+    <string name="input_footer">Сложный пароль или не хотите искать - ввойдите по коду. Или используйте обычный вход.</string>
+    <string name="code">Код</string>
+    <string name="input">Войти</string>
+    <string name="output">Выйди в меня детка</string>
+    <string name="send_code_retry">Выслать код повторно</string>
+    <string name="error_send_code">Не удалось отправить код</string>
+    <string name="error_input">Не удалось войти</string>
+    <string name="retry">Попробовать снова</string>
+</resources>

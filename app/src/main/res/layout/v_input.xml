@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/send_code">
+
+    <com.rey.material.widget.ProgressView
+        android:id="@+id/v_input_pv_progress"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        app:pv_autostart="true"
+        app:pv_circular="true"
+        app:pv_progressMode="indeterminate"
+        app:pv_progressStyle="@style/Material.Drawable.CircularProgress"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:text="Выполняется вход..."
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView"
+        android:layout_below="@+id/v_input_pv_progress"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="sans-serif-light"
+        android:paddingBottom="12dp"
+        android:textColor="@android:color/white"
+        android:textSize="19sp"
+        android:layout_marginTop="15dp" />
+</RelativeLayout>
